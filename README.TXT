@@ -1,21 +1,25 @@
-# <Título de tu Proyecto>
+###IMAGENES
 
-## Descripción
-Proporciona una breve descripción que explique el qué, el por qué y el cómo de tu proyecto. Algunas preguntas que puedes responder aquí son:
-- ¿Cuál fue tu motivación para crear este proyecto?
-- ¿Por qué desarrollaste este proyecto?
 
-## Instalación
-Indica los pasos necesarios para instalar y configurar tu proyecto. Incluye comandos, dependencias y cualquier otro detalle relevante.
 
-## Uso
-Explica cómo utilizar tu proyecto. Proporciona ejemplos de código, capturas de pantalla o instrucciones detalladas.
+![](https://cdn.autoproyecto.com/wp-content/uploads/2024/01/interior-4.jpg)
 
-## Contribución
-Si tu proyecto es de código abierto y acepta contribuciones, describe cómo otros desarrolladores pueden colaborar. Incluye información sobre cómo solucionar problemas, impulsar cambios y enviar solicitudes de extracción.
+![](https://www.estiloracing.com/c/15-category_default/premium-ediciones-especiales.jpg)
 
-## Licencia
-Indica la licencia bajo la cual se distribuye tu proyecto. Por ejemplo, puedes usar una licencia MIT, Apache, GPL, etc.
+![](https://www.toysruschina.com/dw/image/v2/BDGJ_PRD/on/demandware.static/-/Sites-master-catalog-toysrus/default/dw0eec11fa/5/a/5/6/5a5641bc6cfe224094be9d8d30dbe9bb9f19b34c_73415_i4.jpg?sw=900&sh=900&q=75)
 
-## Contacto
-Proporciona tus datos de contacto o enlaces a tus redes sociales para que otros puedan comunicarse contigo.
+
+### WHEELS CARD
+Es la innovadora tarjeta de débito diseñada para el entusiasta de las criptomonedas moderno. Cargada exclusivamente con Wheels Coin, nuestra criptomoneda de vanguardia, esta tarjeta ofrece una experiencia de usuario sin precedentes. Con Wheels Card, disfrutarás de la libertad de realizar transacciones en una amplia red de establecimientos, tanto en línea como físicos, a nivel mundial. La seguridad es primordial, por lo que cada transacción está protegida con tecnología de cifrado de última generación, asegurando que tus fondos y tu información personal permanezcan seguros. Además, Wheels Card se sincroniza sin problemas con nuestra aplicación móvil, permitiéndote monitorear tus gastos, gestionar tu saldo y recibir notificaciones en tiempo real. Ya sea que estés comprando tu café matutino o invirtiendo en tu futuro, Wheels Card es tu puente hacia la economía digital del mañana..
+
+
+
+###Tecnologías utilizadas
+![](https://as1.ftcdn.net/v2/jpg/03/21/24/30/1000_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.jpg)
+
+
+Legal
+Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
+Despliegue
+https://keen-tanuki-e34ea9.netlify.app/
+
